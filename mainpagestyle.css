@@ -1,0 +1,35 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.redcircle{
+  opacity:0%;
+  position: absolute;
+  margin-top:508px;
+  margin-left:625px;
+}
+
+.greencircle{
+  opacity:0%;
+  position: absolute;
+  margin-top:510px;
+  margin-left:679px;
+}
+
+.bluecircle{
+  opacity:0%;
+  position: absolute;
+  margin-top:510px;
+  margin-left:733px;
+}
+
+
+
+canvas {
+  margin-top: 100px;
+  margin-left: 100px;
+  z-index:-1;
+}

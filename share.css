@@ -1,0 +1,54 @@
+@charset "UTF-8";
+.share-btn {
+	text-decoration: none;
+  display: block;
+  color: #42494d;
+  border: 2px solid;
+  border-color: #42494d;
+  padding: 25px 25px;
+  outline: none;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 0.9em;
+  margin: 25px;
+ margin-left: 350px;
+ margin-right: 350px;
+}
+
+.share-btn:focus,
+.share-btn.twitter:hover {
+  text-decoration: none;
+	color: #FFFFFF;
+	background:#42494d;
+	transition-duration: 0.2s;
+}
+.share-btn.facebook:hover {
+  text-decoration: none;
+	color: #FFFFFF;
+	background:#42494d;
+	transition-duration: 0.2s;
+}
+
+.share-btn.reddit:hover {
+  text-decoration: none;
+	color: #FFFFFF;
+	background:#42494d;
+	transition-duration: 0.2s;
+}
+.share-btn.email:hover {
+  text-decoration: none;
+	color: #FFFFFF;
+	background:#42494d;
+	transition-duration: 0.2s;
+}
+.share-btn:active {
+  color: #e2e2e2;
+}
+
+.share-btn.twitter     { background: #fff; }
+
+.share-btn.facebook    { background: #fff; }
+
+.share-btn.reddit      { background: #fff; }
+
+.share-btn.email       { background: #fff; }

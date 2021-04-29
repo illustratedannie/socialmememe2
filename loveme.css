@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-image: url('lovemeassets/heart2.gif');
+}
+canvas {
+  display: block;
+}
+0
